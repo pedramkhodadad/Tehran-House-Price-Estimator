@@ -10,7 +10,7 @@ import os
 import numpy as np
 
 st.set_page_config(page_title="Tehran House Price Estimator", layout="centered")
-st.title("Tehran House Price Estimator")
+st.title("Tehran House Price لEstimator")
 st.write("This app uses a saved (joblib) model to predict the estimated price of a house.")
 
 # --- Find model file ---
