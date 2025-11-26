@@ -1,0 +1,35 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "CPython 3.12.0",
+  "startedAt": "2025-11-18T17:34:19.128756Z",
+  "program": "08_-_1st_Project_-_Divar/Untitled.ipynb",
+  "codePath": "08_-_1st_Project_-_Divar/Untitled.ipynb",
+  "email": "pedramkhodadad0@gmail.com",
+  "root": "D:\\suii\\08_-_1st_Project_-_Divar",
+  "host": "DESKTOP-RAVRRKK",
+  "executable": "D:\\suii\\suii\\Scripts\\python.exe",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce GTX 1650 with Max-Q Design",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "333446115328",
+      "used": "141914378240"
+    }
+  },
+  "memory": {
+    "total": "16867037184"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce GTX 1650 with Max-Q Design",
+      "memoryTotal": "4294967296",
+      "cudaCores": 896,
+      "architecture": "Turing",
+      "uuid": "GPU-37fcbb9b-7649-bf0b-203a-ba6616e4d9f3"
+    }
+  ],
+  "cudaVersion": "12.5",
+  "writerId": "ogai8tnsvhzyqeol6goqfxwnltc3u3yl"
+}
